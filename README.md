@@ -1,7 +1,7 @@
 Wind Power:
 ==========
 
-Here are three modules written in Ipython-Notebook:
+**Here are three modules written in Ipython-Notebook**:
 
 costreturn
 ----------
